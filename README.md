@@ -5,5 +5,4 @@ My first repository!!!
 
 + first element
 + second element
-+ third element
-+ 
++ third element 
